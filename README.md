@@ -40,7 +40,7 @@ grunt.initConfig({
 Type: `String`
 Default value: `'svgData'`
 
-A string value that is used to do something with whatever.
+A string value that is used to do javascript object name.
 
 ### Usage Examples
 
